@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedboulj" alt="mohamedboulj" /></a> </p>
 
-- 🌱 I’m currently learning **LARAVEL Framework**
+- 🌱 I’m currently learning **SYMFONY**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamedboulj](https://github.com/Mohamedboulj)
 
